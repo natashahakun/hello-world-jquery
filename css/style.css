@@ -1,0 +1,21 @@
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+p {
+  padding: 15px;
+  text-align: justify;
+  background-color: #0B3861;
+}
+
+#wrapper {
+  padding: 20px;
+  font-family: sans-serif;
+  color: #01DFD7;
+  background-color: #045FB4;
+}
+
+.highlighted {
+  background-color: #8A0808;
+}
